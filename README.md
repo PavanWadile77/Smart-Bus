@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # passenger_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Smart-Bus
+>>>>>>> 19cd8183525a07a809e68d087ea45c3c586337ab
