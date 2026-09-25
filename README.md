@@ -4,12 +4,9 @@ A Flutter-based **smart public-transport passenger application** focused on live
 
 ## 🚀 Key Features
 - Live bus location and map view
-- From-to route guidance
-- Journey assistance
-- Bus route and stop information
-- Estimated travel information
-- Passenger profile
-- Digital ticket/pass workflow
+- From-to route guidance and journey assistance
+- Bus routes and stop information
+- Passenger profile and digital ticket/pass workflow
 - Destination-stop alerts
 - Firebase-backed data
 
