@@ -1,16 +1,11 @@
-# Smart Bus Passenger App 🚌
+# Smart Bus 🚌
 
-A Flutter-based passenger application for **live bus tracking, route guidance, and public-transport assistance**.
+A Flutter-based **smart public-transport passenger application** focused on live bus tracking, route guidance, stops, travel information, and digital passenger workflows.
 
-## Overview
-
-Smart Bus is designed to help passengers find their route, follow a journey, view live bus information, and manage digital travel information from one application.
-
-## 🚀 Core Features
-
+## 🚀 Key Features
 - Live bus location and map view
 - From-to route guidance
-- Step-by-step journey assistance
+- Journey assistance
 - Bus route and stop information
 - Estimated travel information
 - Passenger profile
@@ -18,37 +13,10 @@ Smart Bus is designed to help passengers find their route, follow a journey, vie
 - Destination-stop alerts
 - Firebase-backed data
 
-## 🛠 Tech Stack
-
-- **Flutter / Dart**
-- **Firebase Core**
-- **Cloud Firestore**
-- **Provider** for state management
-- **Flutter Map**
-- **LatLng / OpenStreetMap-compatible mapping**
-
-## 📂 Project Structure
-
-A typical application structure is organized around:
-
-```text
-lib/
-├── screens/
-├── widgets/
-├── models/
-├── services/
-├── providers/
-└── utils/
-```
+## 🛠️ Tech Stack
+**Flutter · Dart · Firebase · Cloud Firestore · Provider · Flutter Map · OpenStreetMap-compatible mapping**
 
 ## ▶️ Run Locally
-
-Prerequisites:
-
-- Flutter SDK
-- Dart SDK
-- Android Studio or an Android device/emulator
-
 ```bash
 git clone https://github.com/PavanWadile77/Smart-Bus.git
 cd Smart-Bus
@@ -56,16 +24,11 @@ flutter pub get
 flutter run
 ```
 
-## 🔐 Firebase
+## 🔐 Security
+Configure Firebase using platform-specific project configuration and keep private credentials out of source control.
 
-The application uses Firebase services for application data. Configure your Firebase project using the platform-specific Flutter Firebase configuration before running production builds.
+## 🔗 Project
+[GitHub Repository](https://github.com/PavanWadile77/Smart-Bus)
 
-Do not commit private credentials or secrets.
-
-## Repository
-
-https://github.com/PavanWadile77/Smart-Bus
-
-## Author
-
+## 👨‍💻 Author
 **Pavan Wadile**
