@@ -27936,7 +27936,7 @@ $S:2}
 A.avg.prototype={
 $1(a){var s=A.cP().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/af7e796e161ae0bb1ff0758c71a7105418bd9ded/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/692136cb6582dbfc5af3fb33c2515a069f2f66d0/":s)+a},
 $S:41}
 A.N8.prototype={
 gu(a){var s=this.a
