@@ -1,5 +1,14 @@
 # Smart Bus 🚌
 
+<div align="center">
+
+**Mobile Application • Smart Transportation**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+</div>
+
+
 A Flutter-based **smart public-transport passenger application** focused on live bus tracking, route guidance, stops, travel information, and digital passenger workflows.
 
 ## 🚀 Key Features
@@ -29,3 +38,18 @@ Configure Firebase using platform-specific project configuration and keep privat
 
 ## 👨‍💻 Author
 **Pavan Wadile**
+
+## 🔧 Engineering Focus
+
+Live bus tracking, route guidance, stop information and passenger workflows.
+
+
+---
+
+<div align="center">
+
+**Pavan Wadile · B.Tech Information Technology**
+
+[GitHub](https://github.com/PavanWadile77)
+
+</div>
